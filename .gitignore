@@ -1,6 +1,4 @@
 .init
 node_modules
 dist
-src
-index.html
 package-lock.json
